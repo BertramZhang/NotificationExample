@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LocationNotificationContentExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>NotificationExample.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>NotificationExampleContentExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TimerBasedNotificationContentExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>notificationService.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F7115CAA1DB5F924002AE1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F71C52BD1DB8AC6D00F1A74A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F7B9AFB01DBA58B500483343</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F7C537811DB7915D00CE4E97</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F7C537971DB7B26200CE4E97</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
